@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mission list</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_pass">Enter Tour PassWord</string>
+    <string name="re_enter_your_pass">Renter Tour Email</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="already_registered">Already Registered !!</string>
+    <string name="not_registered_yet">Not Registered Yet !</string>
+    <string name="type_your_task">Type Your Task</string>
+</resources>
